@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Zakichanu
+- 👀 I’m interested in doing new things, especially bots xD
+- 🌱 I’m currently learning C#, R Studio, Big data and many more
+- 📫 How to reach me : zakariatobb@gmail.com
