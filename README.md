@@ -1,4 +1,4 @@
 - 👋 Hi, my name is Zakaria Tobbal, future computer science engineer from Efrei Paris school.
 - 👀 I’m interested in doing new things, especially bots xD
-- 🌱 I’m currently learning C#, R Studio, Big data and many more
+- 🌱 Analyst developer in part time, I'm doing side projects when I have time 😁
 - 📫 How to reach me : zakariatobb@gmail.com
