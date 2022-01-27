@@ -1,6 +1,10 @@
 <h1 align="center">Zakaria TOBBAL</h1>
 <h3 align="center">Student at Efrei Paris  </h3>
- <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Efrei_2022.svg/langfr-1920px-Logo_Efrei_2022.svg.png" alt="efrei" width="130" height="40" /> </p>
+ <p align="center">
+<a href="https://www.efrei.fr/programme-grande-ecole/cycle-ingenieur-par-apprentissage-lsi-hybride/" target="_blank" rel="noreferrer"> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Efrei_2022.svg/langfr-1920px-Logo_Efrei_2022.svg.png" alt="efrei" width="130" height="40" /> 
+ </a>
+</p>
 <p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=zakichanu&label=Profile%20views&color=0e75b6&style=flat"
     alt="zakichanu" /> 
   </p>
