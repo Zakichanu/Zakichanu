@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakichanu&label=Profile%20views&color=0e75b6&style=flat" alt="zakichanu" /> </p>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakichanu&theme=onedark" alt="zakichanu" /></a> </p>
   
-  <p><img align="right" src="https://c.tenor.com/wf_4F6J2Qb8AAAAC/hxh-gin-freecss.gif" alt="zakichanu" /></p>
+  <p><img align="right" src="https://64.media.tumblr.com/54cccf5d59ff5bcb11e10d5e41d9ff52/4932f8790c2f48dc-a9/s540x810/3856e369f7afed1ed75543fb79409ee6a4dea560.gif" alt="zakichanu" /></p>
   
 - 🔍 I’m interested in doing new things, especially bots.
 - 👔 Analyst developer in part time, student in CS Engineer. I'm doing side projects when I have time 😁
