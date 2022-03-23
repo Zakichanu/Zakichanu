@@ -5,7 +5,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Efrei_2022.svg/langfr-1920px-Logo_Efrei_2022.svg.png" alt="efrei" width="130" height="40" /> 
  </a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakichanu&label=Profile%20views&color=0e75b6&style=flat" alt="zakichanu" /> <img src="https://img.shields.io/twitter/follow/zakichaku?logo=twitter&style=for-the-badge" alt="zakichaku" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakichanu&label=Profile%20views&color=0e75b6&style=flat" alt="zakichanu" /> </p>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakichanu&theme=onedark" alt="zakichanu" /></a> </p>
   
   <p><img align="right" src="https://c.tenor.com/wf_4F6J2Qb8AAAAC/hxh-gin-freecss.gif" alt="zakichanu" /></p>
