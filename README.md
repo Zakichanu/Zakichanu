@@ -112,6 +112,9 @@
  <a href="https://discord.gg/HakuDZ#4168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HakuDZ#4168" height="30" width="40" /></a>
 </p>
 
+### Now playing :
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11127407635&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=11127407635&redirect=true)
+
 ## My Statistics
 
 |                                                                                                           |                                                                                                                                                                                                                                                                       |
