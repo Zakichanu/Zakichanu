@@ -119,11 +119,11 @@
 
 |                                                                                                           |                                                                                                                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Zakichanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakichanu&count_private=true&theme=radical) |[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zakichanu&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFFFFF&currStreakLabel=FFFFFF)](https://git.io/streak-stats) |
+| ![Zakichanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakichanu&count_private=true&theme=tokyonight) |[![GitHub Streak](https://streak-stats.demolab.com?user=zakichanu&theme=tokyonight)](https://git.io/streak-stats) |
 
 |                                                                                                                                                                                                 |                                                                                                                                                                                  
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Zakichanu&theme=xcode&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |                                                                                                                                                                                 |  
+| [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Zakichanu&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |                                                                                                                                                                                 |  
 
 
 
