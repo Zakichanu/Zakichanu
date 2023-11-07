@@ -119,11 +119,8 @@
 
 |                                                                                                           |                                                                                                                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Zakichanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakichanu&count_private=true&theme=tokyonight) |[![GitHub Streak](https://streak-stats.demolab.com?user=zakichanu&theme=tokyonight)](https://git.io/streak-stats) |
+| ![Zakichanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakichanu&count_private=true&theme=tokyonight) |[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zakichanu&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
 
-|                                                                                                                                                                                                 |                                                                                                                                                                                  
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zakichanu&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |                                                                                                                                                                                 |  
 
 
 
