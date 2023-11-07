@@ -8,7 +8,7 @@
   <p><img align="right" src="https://64.media.tumblr.com/54cccf5d59ff5bcb11e10d5e41d9ff52/4932f8790c2f48dc-a9/s540x810/3856e369f7afed1ed75543fb79409ee6a4dea560.gif" alt="zakichanu" /></p>
   
 - 🔍 I’m interested in doing new things, especially bots.
-- 👔 Analyst developer in part time, student in CS Engineer. I'm doing side projects when I have time 😁
+- 👔 Expert fullstack developer in EVSE environment, especially with supervision projects.
 - 📫 How to reach me : zakariatobb@gmail.com
 
 <br>
