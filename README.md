@@ -1,7 +1,5 @@
  <h1 align="center">Zakaria TOBBAL</h1>
-<h3 align="center">CTO @ &nbsp;&nbsp; <a href="https://rechargermonauto.com" target="_blank" rel="noreferrer"> 
-   <img src="https://media.licdn.com/dms/image/D4E0BAQHuXirwm4fxww/company-logo_200_200/0/1714125621448/rechargermonauto_logo?e=1723075200&v=beta&t=zqk6VEdn6N-_i9Akwz4Z-JX2bhDW7OZj-ZWMEH0i1rs" alt="RMA" width="70" height="50"/> 
- </a></h3>
+<h3 align="center">CTO @ &nbsp;&nbsp; <a href="https://rechargermonauto.com" target="_blank" rel="noreferrer">RMA</a></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakichanu&label=Profile%20views&color=0e75b6&style=flat" alt="zakichanu" /> </p>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakichanu&theme=onedark&column=7" alt="zakichanu" /></a> </p>
   
@@ -104,9 +102,6 @@
       alt="zakichanu" height="30" width="40" /></a>
  <a href="https://discord.gg/HakuDZ#4168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HakuDZ#4168" height="30" width="40" /></a>
 </p>
-
-### Now playing :
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11127407635&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=11127407635&redirect=true)
 
 ## My Statistics
 
