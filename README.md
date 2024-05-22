@@ -1,9 +1,9 @@
  <h1 align="center">Zakaria TOBBAL</h1>
 <h3 align="center">CTO @ &nbsp;&nbsp; <a href="https://rechargermonauto.com" target="_blank" rel="noreferrer">RMA</a></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakichanu&label=Profile%20views&color=0e75b6&style=flat" alt="zakichanu" /> </p>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakichanu&theme=onedark&column=7" alt="zakichanu" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakichanu&theme=onedark&column=8" alt="zakichanu" /></a> </p>
   
-  <p><img align="right" src="https://giffiles.alphacoders.com/218/218631.gif" alt="zakichanu" /></p>
+  <p><img align="right" width="600px" height="350px" src="https://giffiles.alphacoders.com/218/218631.gif" alt="zakichanu" /></p>
  
 - 👔 Fullstack developer.
 - 🚗 Expert in EVSE IT ecosystem.
@@ -104,10 +104,14 @@
 </p>
 
 ## My Statistics
+<div align="center">
+ 
+![Zakichanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakichanu&count_private=true&theme=tokyonight)
 
-|                                                                                                           |                                                                                                                                                                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Zakichanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakichanu&count_private=true&theme=tokyonight) |[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zakichanu&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zakichanu&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+</div>
+
 
 
 
