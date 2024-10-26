@@ -7,7 +7,7 @@
  
 - 👔 Fullstack developer.
 - 🚗 Expert in EVSE IT ecosystem.
-- 📫 Reach me : zakariatobb@gmail.com
+- 📫 Reach me : zakaria.tobbal@zakichan.tech
 
 <br>
 
@@ -105,10 +105,21 @@
 
 ## My Statistics
 <div align="center">
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=zakichanu&count_private=true&theme=tokyonight" alt="Zakichanu's GitHub stats"></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zakichanu&theme=tokyonight&hide_border=true&border_radius=10&locale=fr&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" alt="GitHub Streak"></a></td>
+  </tr>
+ <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zakichanu&theme=tokyo-night&area=true&hide_border=true" alt="Github activity graph">
+      </a>
+    </td>
+  </tr>
+</table>
+      
  
-![Zakichanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakichanu&count_private=true&theme=tokyonight)
-
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zakichanu&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 </div>
 
