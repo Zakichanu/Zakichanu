@@ -7,7 +7,7 @@
  
 - 👔 Fullstack developer.
 - 🚗 Expert in EVSE IT ecosystem.
-- 📫 Reach me : zakaria.tobbal@zakichan.tech
+- 📫 Reach me : zakariatobb@gmail.com
 
 <br>
 
