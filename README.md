@@ -1,5 +1,5 @@
  <h1 align="center">Zakaria TOBBAL</h1>
-<h3 align="center">CTO @ &nbsp;&nbsp; <a href="https://rechargermonauto.com" target="_blank" rel="noreferrer">RMA</a></h3>
+<h3 align="center">SWE @ &nbsp;&nbsp; <a href="https://www.allego.eu/" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/1128-allego.webp" width="100px" height="75px" align="center" alt="Allego" /></a></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakichanu&label=Profile%20views&color=0e75b6&style=flat" alt="zakichanu" /> </p>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakichanu&theme=onedark&column=8" alt="zakichanu" /></a> </p>
   
